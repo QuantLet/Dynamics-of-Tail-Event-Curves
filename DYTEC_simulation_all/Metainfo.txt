@@ -1,0 +1,15 @@
+Name of Quantlet: ‘DYTEC_simulation_all’
+
+Published in: Dynamcis of Tail Event Curves
+
+Description: 'This is the simulation of  DYTEC algorithms’
+
+Keywords: expectile, dynamics, factor model, simulation
+
+Author: Petra Burdejova
+
+Submitted:  Nov 28 2017 by Petra Burdejova
+
+Input: ‘params.txt’
+
+Output:  MSEs and their standart deviations for DYTEC algorithm simulations
