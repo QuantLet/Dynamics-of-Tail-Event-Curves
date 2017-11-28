@@ -1,2 +1,6 @@
-# DSFM-for-Expectiles
-DSFM for expectiles as a part of project: Dynamics of Tail Event Curves
+
+Project: Dynamics of Tail Event Curves
+
+Content:
+
+1. Dynamics of Tail Event Curves
