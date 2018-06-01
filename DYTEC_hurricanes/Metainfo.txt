@@ -1,16 +1,15 @@
-Name of Quantlet: ‘DYTEC_hurricanes’
+﻿Name of Quantlet: 'DYTEC_hurricanes'
 
 Published in: Dynamcis of Tail Event Curves
 
-Description: 'This is the application of  DYTEC algorithms to the hurricanes data’
+Description: 'This is the application of  DYTEC algorithms to the hurricanes data'
 
 Keywords: expectile, dynamics, factor model
-
 
 Author: Petra Burdejova
 
 Submitted:  Nov 29 2017 by Petra Burdejova
 
-Input: ‘data_hurricanes.csv’
+Input: 'data_hurricanes.csv'
 
 Output:  Compute bata-matrix and plot it

@@ -1,8 +1,8 @@
-Name of Quantlet: ‘DYTEC_temperature’
+﻿Name of Quantlet: 'DYTEC_temperature'
 
 Published in: Dynamcis of Tail Event Curves
 
-Description: 'This is the application of  DYTEC algorithms to the temperature data’
+Description: 'This is the application of  DYTEC algorithms to the temperature data'
 
 Keywords: expectile, dynamics, factor model
 
@@ -11,6 +11,6 @@ Author: Petra Burdejova
 
 Submitted:  Nov 28 2017 by Petra Burdejova
 
-Input: ‘temperature.txt’
+Input: 'temperature.txt'
 
 Output:  Compute bata-matrix and plot  compare forecast for expectile curve
