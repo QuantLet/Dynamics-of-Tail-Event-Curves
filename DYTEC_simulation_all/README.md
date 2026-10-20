@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: DYTEC_simulation_all
-
 Published in: Dynamcis of Tail Event Curves
 
 Description: This is the simulation of  DYTEC algorithms
