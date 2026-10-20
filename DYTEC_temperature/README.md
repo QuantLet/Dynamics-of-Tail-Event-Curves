@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: DYTEC_temperature
-
 Published in: Dynamcis of Tail Event Curves
 
 Description: This is the application of  DYTEC algorithms to the temperature data
